@@ -1,0 +1,27 @@
+footer {
+	background-color: black;
+    position: absolute;
+    bottom: 0;
+	width: 100%;
+	height: auto;
+}
+
+footer ul li {
+	display: inline-block;
+	list-style: none;
+	float: right;
+	
+}
+
+footer p {
+	float: left;
+}
+
+footer a,
+footer p {
+
+	color:#fff;
+	vertical-align: middle;
+
+
+}

@@ -21,7 +21,9 @@ body {
 	top:20;
 	left:0;
 	padding-left: 20px;
-	color:#F7FAFE;
+	color:black;
+	background-color: blanchedalmond;
+	opacity: 50%;
 }
 .jumbotron h4 {
 
@@ -50,8 +52,8 @@ body {
 }
 
 .order-button {
-  margin: 0 auto;
-  width: 25%;
+  margin: 0;
+  width: 100%;
   padding: 10px;
 }
 
@@ -67,10 +69,8 @@ body {
 	font-size: 1.2em;
 	padding-top: 10px;
 }
-
-
 footer {
-	background-color: #D64541;
+	background-color: black;
 	position: absolute;
 	width: 100%;
 	height: auto;
@@ -105,3 +105,4 @@ MEDIA QUERIES
 		max-width: 90%;
 		margin: auto;
 	}
+}
